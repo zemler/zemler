@@ -3,5 +3,6 @@
 I can write python 🐍 scripts, and simple C programs 💾.
 
 
-![Screenshot](ms900.png)
 ![Screenshot](mta.png)
+![Screenshot](ms900.png)
+
