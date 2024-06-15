@@ -6,12 +6,29 @@ I'm currently working for a company called EXATEL, where I'm involved in penetra
 
 #
 
+### Current Projects
+
+<div style="border: 2px solid #e1e4e8; border-radius: 8px; padding: 16px; background-color: #f6f8fa;">
+  <h3 style="margin-top: 0;"><a href="https://github.com/zemler/BurpExploits" style="text-decoration: none; color: #0366d6;">BurpExploits</a></h3>
+  <p style="color:black" >Portswigger Academy labs exploits writen in python</p>
+</div>
+
+#
+
 ### Certificates
 
 <div style="display: flex;">
 <img src="./ewpt.png" width="350px" style="padding-right:20px;">
 <img src="./ejpt.png" width="350px">
 </div>
+
+#
+
+### Skills
+
+- **Languages**: Python, C, PHP, Bash, PowerShell
+- **Tools**: Burp Suite, Crackmapexec, Impacket, and many more
+- **Platforms**: Linux, Windows
 
 #
 
