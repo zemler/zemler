@@ -6,6 +6,8 @@ I'm currently working for a company called EXATEL, where I'm involved in penetra
 
 #
 
+**My favorite AD pentest part:**
+
 <div>
     <img src="./secretsdump.gif"/>
 </div>
