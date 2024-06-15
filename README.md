@@ -6,6 +6,13 @@ I'm currently working for a company called EXATEL, where I'm involved in penetra
 
 #
 
+### Certificates
+
+<img src="./ewpt.png" width="200px" style="padding-right:10px;">
+<img src="./ejpt.png" width="200px">
+
+#
+
 ### Languages and Tools
 
 <img align="left" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
@@ -15,5 +22,3 @@ I'm currently working for a company called EXATEL, where I'm involved in penetra
 <img align="left" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <img align="left" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
 <img align="left" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-
-### Certifications:
