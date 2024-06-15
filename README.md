@@ -6,6 +6,12 @@ I'm currently working for a company called EXATEL, where I'm involved in penetra
 
 #
 
+<div>
+    <img src="./secretsdump.gif"/>
+</div>
+
+#
+
 ### Current Project
 
 <div style="border: 1px solid #e1e4e8; padding: 16px; background-color: #ffffff;">
