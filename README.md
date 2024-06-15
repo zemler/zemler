@@ -6,7 +6,7 @@ I'm currently working for a company called EXATEL, where I'm involved in penetra
 
 #
 
-### Current Projects
+### Current Project
 
 <div style="border: 2px solid #e1e4e8; border-radius: 8px; padding: 16px; background-color: #f6f8fa;">
   <h3 style="margin-top: 0;"><a href="https://github.com/zemler/BurpExploits" style="text-decoration: none; color: #0366d6;">BurpExploits</a></h3>
