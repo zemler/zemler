@@ -9,8 +9,8 @@ I'm currently working for a company called EXATEL, where I'm involved in penetra
 ### Certificates
 
 <div style="display: flex;">
-<img src="./ewpt.png" width="250px" style="padding-right:10px;">
-<img src="./ejpt.png" width="250px">
+<img src="./ewpt.png" width="350px" style="padding-right:10px;">
+<img src="./ejpt.png" width="350px">
 </div>
 
 #
