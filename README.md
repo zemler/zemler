@@ -24,14 +24,6 @@ I'm currently working for a company called EXATEL, where I'm involved in penetra
 
 #
 
-### Skills
-
-- **Languages**: Python, C, PHP, Bash, PowerShell
-- **Tools**: Burp Suite, Crackmapexec, Impacket, and many more
-- **Platforms**: Linux, Windows
-
-#
-
 ### Languages and Tools
 
 <img align="left" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
