@@ -8,14 +8,10 @@ I'm currently working for a company called EXATEL, where I'm involved in penetra
 
 ### Current Project
 
-<table>
-  <tr>
-    <td style="border: 1px solid #e1e4e8; border-radius: 8px; padding: 16px; background-color: #f6f8fa;">
-      <h3><a href="https://github.com/zemler/BurpExploits" style="text-decoration: none; color: #0366d6;">BurpExploits</a></h3>
-      <p style="color:black" >Portswigger Academy labs exploits writen in python</p>
-    </td>
-  </tr>
-</table>
+<div style="border: 1px solid #e1e4e8; padding: 16px; background-color: #ffffff;">
+  <h3><a href="https://github.com/zemler/BurpExploits" style="text-decoration: none; color: #0366d6;">BurpExploits</a></h3>
+  <p style="color: black;">Portswigger Academy labs exploits written in python</p>
+</div>
 
 #
 
