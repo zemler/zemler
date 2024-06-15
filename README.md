@@ -8,8 +8,10 @@ I'm currently working for a company called EXATEL, where I'm involved in penetra
 
 ### Certificates
 
-<img src="./ewpt.png" width="300px" style="padding-right:5px;">
-<img src="./ejpt.png" width="300px">
+<div style="display: flex;">
+<img src="./ewpt.png" width="250px" style="padding-right:10px;">
+<img src="./ejpt.png" width="250px">
+</div>
 
 #
 
