@@ -6,4 +6,4 @@ I'm currently working for a company called EXATEL, where I'm involved in penetra
 
 ### Languages and Tools
 
- <img align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+ <img align="left" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
