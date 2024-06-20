@@ -62,12 +62,30 @@ I'm currently working for a company called EXATEL as Penetester, where I'm invol
 
 #
 
-### Current Project
+### Current Projects
 
-<div style="border: 1px solid #e1e4e8; padding: 16px; background-color: #ffffff;">
-  <h3><a href="https://github.com/zemler/BurpExploits" style="text-decoration: none; color: #0366d6;">BurpExploits</a></h3>
-  <p style="color: black;">Portswigger Academy labs exploits written in python</p>
-</div>
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>BurpExploits</td>
+      <td><a href="https://github.com/zemler/BurpExploits">LINK</></td>
+    </tr>
+    <tr>
+      <td>Responder Detector</td>
+      <td>TBA</td>
+    </tr>
+    <tr>
+      <td>Telnet Honeypot</td>
+      <td>TBA</td>
+    </tr>
+  </tbody>
+</table>
 
 #
 
