@@ -54,14 +54,6 @@ I'm currently working for a company called EXATEL as Penetester, where I'm invol
 
 #
 
-**My favorite AD pentest part:**
-
-<div>
-    <img src="./secretsdump.gif"/>
-</div>
-
-#
-
 ### Current Projects
 
 <table>
@@ -86,6 +78,14 @@ I'm currently working for a company called EXATEL as Penetester, where I'm invol
     </tr>
   </tbody>
 </table>
+
+#
+
+**My favorite AD pentest part:**
+
+<div>
+    <img src="./secretsdump.gif"/>
+</div>
 
 #
 
