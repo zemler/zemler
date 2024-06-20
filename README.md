@@ -2,7 +2,7 @@
 
 **`Pentester & Security Researcher`**
 
-I'm currently working for a company called EXATEL as Penetester, where I'm involved in testing of LANs (mainly Active Directory) and web applications. I started my cyber security journey already in high school, where I passed my first two Microsoft certifications, which then helped me get my first job as a Junior Penetration Tester.
+I'm currently working for a company called EXATEL as Penetester, where I'm involved in testing of LANs (mainly Active Directory) and web applications. I started my cyber security journey already in high school, where I earned my first two Microsoft certifications, which then helped me get my first job as a Junior Penetration Tester.
 
 #
 
