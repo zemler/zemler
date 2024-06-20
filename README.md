@@ -13,6 +13,45 @@ I'm currently working for a company called EXATEL, where I'm involved in penetra
 <img src="./ejpt.png" width="350px">
 </div>
 
+**`Every certificate I earned:`**
+
+<table>
+  <thead>
+    <tr>
+      <th>Certification Name</th>
+      <th>Issuer</th>
+      <th>Date Issued</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>eLearnSecurity Web Penetration Tester</td>
+      <td>eLearnSecurity</td>
+      <td>2023-02</td>
+    </tr>
+    <tr>
+      <td>eLearnSecurity Junior Penetration Tester</td>
+      <td>eLearnSecurity</td>
+      <td>2022-08</td>
+    </tr>
+    <tr>
+      <td>Webapps hacking</td>
+      <td>Niebezpiecznik.pl</td>
+      <td>2021-08</td>
+    </tr>
+    <tr>
+      <td>98-365:MTA: Windows Server Administration Fundamentals</td>
+      <td>Microsoft</td>
+      <td>2020-06</td>
+    </tr>
+     <tr>
+      <td>MS-900 Microsoft 365 Fundamentals</td>
+      <td>Microsoft</td>
+      <td>2019-11</td>
+    </tr>
+  </tbody>
+</table>
+
 #
 
 **My favorite AD pentest part:**
