@@ -66,7 +66,7 @@ I'm currently working for a company called EXATEL as Penetester, where I'm invol
   <tbody>
     <tr>
       <td>BurpExploits</td>
-      <td><a href="https://github.com/zemler/BurpExploits">LINK</></td>
+      <td><a href="https://github.com/zemler/BurpExploits">LINK</a></td>
     </tr>
     <tr>
       <td>Responder Detector</td>
@@ -74,7 +74,7 @@ I'm currently working for a company called EXATEL as Penetester, where I'm invol
     </tr>
     <tr>
       <td>Telnet Honeypot</td>
-      <td>TBA</td>
+      <td><a href="https://github.com/zemler/FalseTel">LINK</a></td>
     </tr>
   </tbody>
 </table>
