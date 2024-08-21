@@ -76,6 +76,10 @@ I'm currently working for a company called EXATEL as Penetester, where I'm invol
       <td>Telnet Honeypot</td>
       <td><a href="https://github.com/zemler/FalseTel">LINK</a></td>
     </tr>
+    <tr>
+      <td>Web Security Python library</td>
+      <td>TBA</td>
+    </tr>
   </tbody>
 </table>
 
