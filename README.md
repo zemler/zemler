@@ -35,11 +35,6 @@ I'm currently working for a company called EXATEL as Penetester, where I'm invol
       <td>2022-08</td>
     </tr>
     <tr>
-      <td>Webapps hacking</td>
-      <td>Niebezpiecznik.pl</td>
-      <td>2021-08</td>
-    </tr>
-    <tr>
       <td>98-365:MTA: Windows Server Administration Fundamentals</td>
       <td>Microsoft</td>
       <td>2020-06</td>
