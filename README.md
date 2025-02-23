@@ -64,7 +64,7 @@ I'm currently working for Standard Chartered as Security Tester. I started my cy
       <td><a href="https://github.com/zemler/BurpExploits">LINK</a></td>
     </tr>
     <tr>
-      <td>Responder Detector</td>
+      <td>RGuard</td>
       <td>TBA</td>
     </tr>
     <tr>
