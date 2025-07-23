@@ -1,8 +1,7 @@
 ## 🕺🏼 Jan Zemla
 
-**`Security Tester - Purple Team`**
+**`Security Tester @ Purple Team`**
 
-I'm currently working for Standard Chartered as Security Tester. I started my cyber security journey already in high school, where I earned my first two Microsoft certifications, which then helped me get my first job as a Junior Penetration Tester.
 
 #
 
