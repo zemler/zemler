@@ -25,6 +25,21 @@ I'm currently working for Standard Chartered as Security Tester. I started my cy
   </thead>
   <tbody>
     <tr>
+      <td>Certified Red Team Professional (CRTP)</td>
+      <td>Altered Security</td>
+      <td>2025-07</td>
+    </tr>
+    <tr>
+      <td>Enterprise Defense Administrator</td>
+      <td>INE Security</td>
+      <td>2025-04</td>
+    </tr>
+    <tr>
+      <td>Maldev Academy - Malware Development Course</td>
+      <td>Maldev Academy</td>
+      <td>2025-04</td>
+    </tr>
+    <tr>
       <td>eLearnSecurity Web Penetration Tester</td>
       <td>eLearnSecurity</td>
       <td>2023-02</td>
