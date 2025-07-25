@@ -7,14 +7,14 @@
 
 ### Certificates
 
-<div style="display: flex;">
-<img src="./CRTP.jpg" width="350px" style="padding-right:20px;"></br>
-<img src="./eEDA.png" width="350px" style="padding-right:20px;">
-<img src="./Maldev.png" width="350px"> </br>
-<img src="./MTA365.png" width="350px" style="padding-right:20px;">
-<img src="./ms900.jpg" width="350px"> </br>
-<img src="./ewpt.png" width="350px" style="padding-right:20px;">
-<img src="./ejpt.png" width="350px">
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="./CRTP.jpg" style="width: 350px; height: 250px; object-fit: cover; padding-right: 20px; margin-bottom: 20px;">
+  <img src="./eEDA.png" style="width: 350px; height: 250px; object-fit: cover; padding-right: 20px; margin-bottom: 20px;">
+  <img src="./Maldev.png" style="width: 350px; height: 250px; object-fit: cover; margin-bottom: 20px;">
+  <img src="./MTA365.png" style="width: 350px; height: 250px; object-fit: cover; padding-right: 20px; margin-bottom: 20px;">
+  <img src="./ms900.jpg" style="width: 350px; height: 250px; object-fit: cover; margin-bottom: 20px;">
+  <img src="./ewpt.png" style="width: 350px; height: 250px; object-fit: cover; padding-right: 20px; margin-bottom: 20px;">
+  <img src="./ejpt.png" style="width: 350px; height: 250px; object-fit: cover; margin-bottom: 20px;">
 </div>
 
 **`Every certificate I earned:`**
