@@ -2,6 +2,8 @@
 
 **`Security Tester @ Purple Team`**
 
+I specialize in Active Directory security with a strong focus on offensive techniques in Windows environments across large public sector and financial organizations.
+
 
 #
 
