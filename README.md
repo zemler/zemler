@@ -8,6 +8,11 @@
 ### Certificates
 
 <div style="display: flex;">
+<img src="./CRTP.jpg" width="350px" style="padding-right:20px;"></br>
+<img src="./eEDA.png" width="350px" style="padding-right:20px;">
+<img src="./Maldev.png" width="350px"> </br>
+<img src="./MTA365.png" width="350px" style="padding-right:20px;">
+<img src="./ms900.jpg" width="350px"> </br>
 <img src="./ewpt.png" width="350px" style="padding-right:20px;">
 <img src="./ejpt.png" width="350px">
 </div>
